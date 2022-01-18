@@ -7,6 +7,11 @@ Commad to terminate process in CMD:
   " taskkill /f /im [process_name] /t "   
   example>>>   taskkill /f /im chrome.exe /t
   
+  
+  Instructions to use:    
+  1. Python 3.X must be installed on system
+  2. File "auto startup ram.py" needs to be copied to system startup folder (i.e C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp)        
+            
   // AUTHOR karan kumar  
   //https://github.com/karan10072002/RAM_cleaner/    
   //https://www.instagram.com/karan10072002/
