@@ -11,7 +11,7 @@ Commad to terminate process in CMD:
   Instructions to use:    
   1. Python 3.X must be installed on system
   2. File "auto startup ram.py" needs to be copied to system startup folder (i.e C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp)   
-  3. Run "Jai Shree RAM.py"     
+  3. Run "Jai Shree ram.pyw"     
             
   // AUTHOR karan kumar  
   //https://github.com/karan10072002/RAM_cleaner/    
